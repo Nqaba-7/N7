@@ -90,7 +90,7 @@
   <section id="contact">
     <h2>Contact Me</h2>
     <p>Email: <a href="mailto:nqabanewebsites@gmail.com">nqabanematshona@gmail.com</a></p>
-    <p>WhatsApp: <a href="https://wa.me/27xxxxxxxxx">+27 781518098</a></p>
+    <p>WhatsApp: <a href="https://wa.me/27xxxxxxxxx">+27 791518098</a></p>
   </section>
 
   <footer>
